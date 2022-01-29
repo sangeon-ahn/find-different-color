@@ -1,1 +1,3 @@
-# find-different-color
+# pick-different-color
+
+# Numble React Challenge
